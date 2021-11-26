@@ -54,6 +54,7 @@ public class LinkedList {
 	  
 	  /*
 	   * Delete method --> Deletes node according to user's specification.
+	   * User Provides index of of the Node (not the real value).
 	   */
 	  public void Delete(int index) {
 		  // if the Node we are deleting is the first Node
